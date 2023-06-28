@@ -75,7 +75,7 @@ You can install the required dependencies using pip:
 
 1. Clone the repository:
 
-```git clone https://github.com/your-username/diabetes-ml-prediction.git```
+```git clone https://github.com/KawserHabib/diabetes-ml-prediction.git```
 
 2. Change into the project directory:
 ```cd diabetes-ml-prediction```
