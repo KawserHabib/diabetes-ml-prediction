@@ -30,3 +30,9 @@ for name, model in models:
     predictions = model.predict(X_test)
     accuracy = accuracy_score(y_test, predictions)
     print(f"{name} Accuracy: {accuracy}")
+
+#OUTPUT
+#Logistic Regression Accuracy: 0.7597402597402597
+#Decision Tree Accuracy: 0.7532467532467533
+#Random Forest Accuracy: 0.7467532467532467
+#SVM Accuracy: 0.7662337662337663
