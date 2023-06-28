@@ -51,6 +51,9 @@ Diabetes ML Prediction GUI
 
 This project aims to predict the risk of diabetes using machine learning algorithms. It provides a graphical user interface (GUI) for users to input their health information and obtain a prediction of their diabetes risk.
 
+![Project Screenshot](https://github.com/KawserHabib/diabetes-ml-prediction/blob/main/Screenshot%202023-06-28%20174200.png)
+
+
 ## Dataset
 
 The project utilizes the `diabetes.csv` dataset, which contains various health features such as glucose levels, BMI, blood pressure, and more. The dataset is included in the repository.
